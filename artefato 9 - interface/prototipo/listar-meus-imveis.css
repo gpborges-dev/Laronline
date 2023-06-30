@@ -1,0 +1,698 @@
+.listar-meus-imveis-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.listar-meus-imveis-listarmeusimveis {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.listar-meus-imveis-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 1480px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text {
+  top: 24px;
+  left: 39px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame16 {
+  top: 19px;
+  left: 1381px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-frame18 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.listar-meus-imveis-frame17 {
+  top: 13px;
+  left: 5px;
+  width: 49px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-polygon1 {
+  top: -6px;
+  left: 0px;
+  width: 49px;
+  height: 24px;
+  position: absolute;
+}
+.listar-meus-imveis-rectangle3 {
+  top: 14px;
+  left: 11px;
+  width: 28px;
+  height: 10px;
+  position: absolute;
+}
+.listar-meus-imveis-rectangle4 {
+  top: 24px;
+  left: 11px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.listar-meus-imveis-rectangle5 {
+  top: 24px;
+  left: 28px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.listar-meus-imveis-component6 {
+  top: 213px;
+  left: 211px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-meus-imveis-text02 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text04 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text06 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text08 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text10 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text12 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text14 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame28 {
+  top: 520px;
+  left: 225px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text16 {
+  top: 7px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-component9 {
+  top: 213px;
+  left: 590px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-meus-imveis-text18 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text20 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text22 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text24 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text26 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text28 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text30 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame29 {
+  top: 520px;
+  left: 604px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text32 {
+  top: 7px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame30 {
+  top: 471px;
+  left: 606px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text34 {
+  top: 7px;
+  left: 109px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-component8 {
+  top: 213px;
+  left: 965px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-meus-imveis-text36 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text38 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text40 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text42 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text44 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text46 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-text48 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame31 {
+  top: 520px;
+  left: 979px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text50 {
+  top: 7px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame32 {
+  top: 471px;
+  left: 981px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text52 {
+  top: 7px;
+  left: 109px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-meus-imveis-frame19 {
+  top: 381px;
+  left: 1316px;
+  width: 23px;
+  height: 35.9813232421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-line1 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.listar-meus-imveis-line2 {
+  top: 34.449249267578125px;
+  left: 5px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.listar-meus-imveis-frame20 {
+  top: 382px;
+  left: 140px;
+  width: 23px;
+  height: 34.05116271972656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-meus-imveis-line3 {
+  top: 16.069690704345703px;
+  left: 3.52734375px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.listar-meus-imveis-line4 {
+  top: 12.601917266845703px;
+  left: 0px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.listar-meus-imveis-frame25 {
+  top: 471px;
+  left: 227px;
+  width: 269px;
+  height: 33px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-meus-imveis-text54 {
+  top: 7px;
+  left: 109px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

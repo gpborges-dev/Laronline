@@ -1,0 +1,530 @@
+.listar-imveis-visitante-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.listar-imveis-visitante-listarimveisvisitante {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.listar-imveis-visitante-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 1480px;
+  height: 100px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(162, 53, 213, 1);
+}
+.listar-imveis-visitante-text {
+  top: 24px;
+  left: 39px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-frame16 {
+  top: 19px;
+  left: 1381px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-frame18 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-ellipse2 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.listar-imveis-visitante-frame17 {
+  top: 13px;
+  left: 5px;
+  width: 49px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-polygon1 {
+  top: -6px;
+  right: 0px;
+  width: 49px;
+  height: 24px;
+  position: absolute;
+}
+.listar-imveis-visitante-rectangle3 {
+  top: 14px;
+  left: 11px;
+  width: 28px;
+  height: 10px;
+  position: absolute;
+}
+.listar-imveis-visitante-rectangle4 {
+  top: 24px;
+  left: 11px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.listar-imveis-visitante-rectangle5 {
+  top: 24px;
+  left: 28px;
+  width: 11px;
+  height: 10px;
+  position: absolute;
+}
+.listar-imveis-visitante-component6 {
+  top: 213px;
+  left: 211px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-imveis-visitante-text02 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text04 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text06 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text08 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text10 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text12 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text14 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-component9 {
+  top: 213px;
+  left: 588px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-imveis-visitante-text16 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text18 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text20 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text22 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text24 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text26 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text28 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-component8 {
+  top: 213px;
+  left: 965px;
+  width: 300px;
+  height: 360px;
+  display: flex;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.4000000059604645) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 360px;
+  position: absolute;
+}
+.listar-imveis-visitante-text30 {
+  top: 36.753929138183594px;
+  left: 16.0112361907959px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  width: 269px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text32 {
+  top: 132px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text34 {
+  top: 132px;
+  left: 95px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text36 {
+  top: 177px;
+  left: 16px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text38 {
+  top: 177px;
+  left: 77px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text40 {
+  top: 222px;
+  left: 14px;
+  color: rgba(0, 0, 0, 0.6000000238418579);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-text42 {
+  top: 222px;
+  left: 119px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.listar-imveis-visitante-frame19 {
+  top: 381px;
+  left: 1316px;
+  width: 23px;
+  height: 35.9813232421875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-line1 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.listar-imveis-visitante-line2 {
+  top: 34.449249267578125px;
+  left: 5px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}
+.listar-imveis-visitante-frame20 {
+  top: 382px;
+  left: 140px;
+  width: 23px;
+  height: 34.05116271972656px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.listar-imveis-visitante-line3 {
+  top: 16.069690704345703px;
+  left: 3.52734375px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.listar-imveis-visitante-line4 {
+  top: 12.601917266845703px;
+  left: 0px;
+  width: 28px;
+  height: 1px;
+  position: absolute;
+}

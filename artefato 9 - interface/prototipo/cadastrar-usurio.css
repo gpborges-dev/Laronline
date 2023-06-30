@@ -1,0 +1,231 @@
+.cadastrar-usurio-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cadastrar-usurio-cadastrarusurio {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrar-usurio-frame7 {
+  top: 163px;
+  left: 228px;
+  width: 1020px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 53, 213, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrar-usurio-text {
+  top: 10px;
+  left: 10px;
+  color: rgba(167, 167, 167, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-text02 {
+  top: 118px;
+  left: 231px;
+  color: rgba(162, 53, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-text04 {
+  top: 219px;
+  left: 228px;
+  color: rgba(162, 53, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-frame10 {
+  top: 264px;
+  left: 231px;
+  width: 1020px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 53, 213, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrar-usurio-text06 {
+  top: 10px;
+  left: 10px;
+  color: rgba(167, 167, 167, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-text08 {
+  top: 320px;
+  left: 228px;
+  color: rgba(162, 53, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-frame13 {
+  top: 365px;
+  left: 231px;
+  width: 1020px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 53, 213, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrar-usurio-text10 {
+  top: 10px;
+  left: 10px;
+  color: rgba(167, 167, 167, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-text12 {
+  top: 421px;
+  left: 231px;
+  color: rgba(162, 53, 213, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-frame14 {
+  top: 466px;
+  left: 231px;
+  width: 1020px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(162, 53, 213, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.cadastrar-usurio-text14 {
+  top: 10px;
+  left: 10px;
+  color: rgba(167, 167, 167, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cadastrar-usurio-frame12 {
+  gap: 10px;
+  top: 531px;
+  left: 231px;
+  width: 1020px;
+  height: 50px;
+  display: flex;
+  padding: 10px 0 10px 10px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background-color: rgba(162, 53, 213, 1);
+}
+.cadastrar-usurio-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
