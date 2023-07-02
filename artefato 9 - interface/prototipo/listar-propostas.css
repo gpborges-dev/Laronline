@@ -43,6 +43,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.listar-propostas-navlink {
+  display: contents;
+}
 .listar-propostas-frame18 {
   top: 20px;
   left: 1374px;
@@ -52,6 +55,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .listar-propostas-ellipse2 {
   top: 0px;

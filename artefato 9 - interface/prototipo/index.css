@@ -1,4 +1,4 @@
-.incio-visitante-container {
+.index-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
 }
-.incio-visitante-inciovisitante {
+.index-inciovisitante {
   width: 100%;
   height: 700px;
   display: flex;
@@ -16,7 +16,7 @@
   flex-shrink: 0;
   background-color: rgba(255, 255, 255, 1);
 }
-.incio-visitante-frame1 {
+.index-frame1 {
   top: 0px;
   left: 0px;
   width: 1480px;
@@ -28,7 +28,7 @@
   flex-shrink: 0;
   background-color: rgba(162, 53, 213, 1);
 }
-.incio-visitante-text {
+.index-text {
   top: 23px;
   left: 23px;
   color: rgba(255, 255, 255, 1);
@@ -43,7 +43,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.incio-visitante-frame2 {
+.index-navlink {
+  display: contents;
+}
+.index-frame2 {
   gap: 10px;
   top: 26px;
   left: 1103px;
@@ -55,9 +58,10 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.incio-visitante-text02 {
+.index-text02 {
   color: rgba(101, 21, 138, 1);
   height: auto;
   flex-grow: 1;
@@ -68,9 +72,11 @@
   font-weight: 400;
   line-height: normal;
   font-stretch: normal;
-  text-decoration: none;
 }
-.incio-visitante-frame3 {
+.index-navlink1 {
+  display: contents;
+}
+.index-frame3 {
   gap: 10px;
   top: 26px;
   left: 1292px;
@@ -82,9 +88,10 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(175, 214, 54, 1);
 }
-.incio-visitante-text04 {
+.index-text04 {
   color: rgba(101, 21, 138, 1);
   height: auto;
   flex-grow: 1;
@@ -97,7 +104,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.incio-visitante-frame5 {
+.index-navlink2 {
+  display: contents;
+}
+.index-frame5 {
   gap: 10px;
   top: 358px;
   left: 333px;
@@ -109,9 +119,10 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
-.incio-visitante-text06 {
+.index-text06 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
@@ -125,7 +136,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.incio-visitante-text08 {
+.index-text08 {
   top: 277px;
   left: 333px;
   color: rgba(0, 0, 0, 1);

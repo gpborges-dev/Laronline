@@ -244,6 +244,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-proposta-navlink {
+  display: contents;
+}
 .editar-proposta-frame11 {
   gap: 10px;
   top: 526px;
@@ -257,6 +260,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(241, 40, 40, 1);
 }
 .editar-proposta-text20 {
@@ -273,6 +277,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-proposta-navlink1 {
+  display: contents;
+}
 .editar-proposta-frame12 {
   gap: 10px;
   top: 526px;
@@ -286,6 +293,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .editar-proposta-text22 {

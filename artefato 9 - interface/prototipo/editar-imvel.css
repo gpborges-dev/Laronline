@@ -219,6 +219,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-imvel-navlink {
+  display: contents;
+}
 .editar-imvel-frame11 {
   gap: 10px;
   top: 556px;
@@ -232,6 +235,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(241, 40, 40, 1);
 }
 .editar-imvel-text18 {
@@ -248,6 +252,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-imvel-navlink1 {
+  display: contents;
+}
 .editar-imvel-frame12 {
   gap: 10px;
   top: 556px;
@@ -261,6 +268,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .editar-imvel-text20 {

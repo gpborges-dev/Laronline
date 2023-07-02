@@ -43,6 +43,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.listar-imveis-visitante-navlink {
+  display: contents;
+}
 .listar-imveis-visitante-frame16 {
   top: 19px;
   left: 1381px;
@@ -52,6 +55,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .listar-imveis-visitante-frame18 {
   top: 0px;

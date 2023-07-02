@@ -1,4 +1,4 @@
-.listar-minhas-propostas-container {
+.minhas-propostas-container {
   width: 100%;
   display: flex;
   overflow: auto;
@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
 }
-.listar-minhas-propostas-listarminhaspropostas {
+.minhas-propostas-listarminhaspropostas {
   width: 100%;
   height: 700px;
   display: flex;
@@ -16,7 +16,7 @@
   flex-shrink: 0;
   background-color: rgba(255, 255, 255, 1);
 }
-.listar-minhas-propostas-frame1 {
+.minhas-propostas-frame1 {
   top: 0px;
   left: 0px;
   width: 1480px;
@@ -28,7 +28,7 @@
   flex-shrink: 0;
   background-color: rgba(162, 53, 213, 1);
 }
-.listar-minhas-propostas-text {
+.minhas-propostas-text {
   top: 21px;
   left: 46px;
   color: rgba(255, 255, 255, 1);
@@ -43,7 +43,10 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-frame18 {
+.minhas-propostas-navlink {
+  display: contents;
+}
+.minhas-propostas-frame18 {
   top: 20px;
   left: 1374px;
   width: 60px;
@@ -52,15 +55,16 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
-.listar-minhas-propostas-ellipse2 {
+.minhas-propostas-ellipse2 {
   top: 0px;
   left: 0px;
   width: 60px;
   height: 60px;
   position: absolute;
 }
-.listar-minhas-propostas-frame17 {
+.minhas-propostas-frame17 {
   top: 13px;
   left: 5px;
   width: 49px;
@@ -70,35 +74,35 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.listar-minhas-propostas-polygon1 {
+.minhas-propostas-polygon1 {
   top: -6px;
   left: 0px;
   width: 49px;
   height: 24px;
   position: absolute;
 }
-.listar-minhas-propostas-rectangle3 {
+.minhas-propostas-rectangle3 {
   top: 14px;
   left: 11px;
   width: 28px;
   height: 10px;
   position: absolute;
 }
-.listar-minhas-propostas-rectangle4 {
+.minhas-propostas-rectangle4 {
   top: 24px;
   left: 11px;
   width: 11px;
   height: 10px;
   position: absolute;
 }
-.listar-minhas-propostas-rectangle5 {
+.minhas-propostas-rectangle5 {
   top: 24px;
   left: 28px;
   width: 11px;
   height: 10px;
   position: absolute;
 }
-.listar-minhas-propostas-frame13 {
+.minhas-propostas-frame13 {
   top: 173px;
   left: 44px;
   width: 1390px;
@@ -108,7 +112,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.listar-minhas-propostas-rectangle2 {
+.minhas-propostas-rectangle2 {
   top: 0px;
   left: 0px;
   width: 1390px;
@@ -116,7 +120,7 @@
   position: absolute;
   border-radius: 10px;
 }
-.listar-minhas-propostas-text02 {
+.minhas-propostas-text02 {
   top: 60px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -131,7 +135,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text04 {
+.minhas-propostas-text04 {
   top: 79px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -146,7 +150,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text06 {
+.minhas-propostas-text06 {
   top: 25px;
   left: 18px;
   color: rgba(0, 0, 0, 1);
@@ -161,7 +165,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text07 {
+.minhas-propostas-text07 {
   top: 21px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -176,7 +180,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text09 {
+.minhas-propostas-text09 {
   top: 41px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -191,7 +195,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text11 {
+.minhas-propostas-text11 {
   top: 47px;
   left: 1320px;
   color: rgba(0, 0, 0, 1);
@@ -206,7 +210,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-frame15 {
+.minhas-propostas-frame15 {
   top: 469px;
   left: 45px;
   width: 1390px;
@@ -216,7 +220,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.listar-minhas-propostas-rectangle21 {
+.minhas-propostas-rectangle21 {
   top: 0px;
   left: 0px;
   width: 1390px;
@@ -224,7 +228,7 @@
   position: absolute;
   border-radius: 10px;
 }
-.listar-minhas-propostas-text13 {
+.minhas-propostas-text13 {
   top: 60px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -239,7 +243,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text15 {
+.minhas-propostas-text15 {
   top: 79px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -254,7 +258,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text17 {
+.minhas-propostas-text17 {
   top: 25px;
   left: 18px;
   color: rgba(0, 0, 0, 1);
@@ -269,7 +273,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text18 {
+.minhas-propostas-text18 {
   top: 21px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -284,7 +288,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text20 {
+.minhas-propostas-text20 {
   top: 41px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -299,7 +303,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text22 {
+.minhas-propostas-text22 {
   top: 47px;
   left: 1320px;
   color: rgba(0, 0, 0, 1);
@@ -314,7 +318,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-frame14 {
+.minhas-propostas-frame14 {
   top: 321px;
   left: 44px;
   width: 1390px;
@@ -324,7 +328,7 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
-.listar-minhas-propostas-rectangle22 {
+.minhas-propostas-rectangle22 {
   top: 0px;
   left: 0px;
   width: 1390px;
@@ -332,7 +336,7 @@
   position: absolute;
   border-radius: 10px;
 }
-.listar-minhas-propostas-text24 {
+.minhas-propostas-text24 {
   top: 60px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -347,7 +351,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text26 {
+.minhas-propostas-text26 {
   top: 79px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -362,7 +366,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text28 {
+.minhas-propostas-text28 {
   top: 25px;
   left: 18px;
   color: rgba(0, 0, 0, 1);
@@ -377,7 +381,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text29 {
+.minhas-propostas-text29 {
   top: 21px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -392,7 +396,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text31 {
+.minhas-propostas-text31 {
   top: 41px;
   left: 82px;
   color: rgba(0, 0, 0, 1);
@@ -407,7 +411,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.listar-minhas-propostas-text33 {
+.minhas-propostas-text33 {
   top: 47px;
   left: 1320px;
   color: rgba(0, 0, 0, 1);

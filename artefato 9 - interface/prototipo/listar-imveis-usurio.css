@@ -53,6 +53,9 @@
   align-items: flex-start;
   flex-shrink: 0;
 }
+.listar-imveis-usurio-navlink {
+  display: contents;
+}
 .listar-imveis-usurio-frame18 {
   top: 0px;
   left: 0px;
@@ -62,6 +65,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .listar-imveis-usurio-ellipse2 {
   top: 0px;
@@ -356,6 +360,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.listar-imveis-usurio-navlink1 {
+  display: contents;
+}
 .listar-imveis-usurio-frame26 {
   top: 504px;
   left: 604px;
@@ -367,6 +374,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .listar-imveis-usurio-text30 {
@@ -508,6 +516,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.listar-imveis-usurio-navlink2 {
+  display: contents;
+}
 .listar-imveis-usurio-frame27 {
   top: 504px;
   left: 981px;
@@ -519,6 +530,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .listar-imveis-usurio-text46 {
@@ -584,6 +596,9 @@
   height: 1px;
   position: absolute;
 }
+.listar-imveis-usurio-navlink3 {
+  display: contents;
+}
 .listar-imveis-usurio-frame25 {
   top: 504px;
   left: 227px;
@@ -595,6 +610,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .listar-imveis-usurio-text48 {

@@ -200,6 +200,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.cadastrar-usurio-navlink {
+  display: contents;
+}
 .cadastrar-usurio-frame12 {
   gap: 10px;
   top: 531px;
@@ -213,6 +216,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .cadastrar-usurio-text16 {

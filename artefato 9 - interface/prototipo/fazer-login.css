@@ -108,6 +108,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.fazer-login-navlink {
+  display: contents;
+}
 .fazer-login-frame12 {
   gap: 10px;
   top: 403px;
@@ -121,6 +124,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .fazer-login-text08 {

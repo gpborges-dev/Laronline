@@ -154,6 +154,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-usurio-navlink {
+  display: contents;
+}
 .editar-usurio-frame11 {
   gap: 10px;
   top: 481px;
@@ -167,6 +170,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(241, 40, 40, 1);
 }
 .editar-usurio-text12 {
@@ -183,6 +187,9 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.editar-usurio-navlink1 {
+  display: contents;
+}
 .editar-usurio-frame12 {
   gap: 10px;
   top: 481px;
@@ -196,6 +203,7 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-radius: 10px;
+  text-decoration: none;
   background-color: rgba(162, 53, 213, 1);
 }
 .editar-usurio-text14 {
